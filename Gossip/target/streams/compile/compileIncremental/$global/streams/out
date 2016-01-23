@@ -1,0 +1,31 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(C:\GossipNetwork\Gossip\src\main\scala\topologies\Sensors.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(C:\GossipNetwork\Gossip\src\main\scala\topologies\Sensors.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\GossipNetwork\Gossip\src\main\scala\topologies\Sensors.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to C:\GossipNetwork\Gossip\target\scala-2.11\classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.1[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.1[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 337d9d7c, interfacing (CompilerInterface) with Scala compiler version 2.11.1[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jre1.8.0_60\lib\resources.jar;C:\Program Files\Java\jre1.8.0_60\lib\rt.jar;C:\Program Files\Java\jre1.8.0_60\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_60\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_60\lib\jce.jar;C:\Program Files\Java\jre1.8.0_60\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_60\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_60\classes;C:\Users\Shruthi Gopalswamy\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.1.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\GossipNetwork\Gossip\target\scala-2.11\classes;C:\Users\Shruthi Gopalswamy\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.2.jar;C:\Users\Shruthi Gopalswamy\.ivy2\cache\com.typesafe\config\bundles\config-1.2.0.jar;C:\Users\Shruthi Gopalswamy\.ivy2\cache\com.typesafe.akka\akka-remote_2.11\jars\akka-remote_2.11-2.3.2.jar;C:\Users\Shruthi Gopalswamy\.ivy2\cache\io.netty\netty\bundles\netty-3.8.0.Final.jar;C:\Users\Shruthi Gopalswamy\.ivy2\cache\com.google.protobuf\protobuf-java\bundles\protobuf-java-2.5.0.jar;C:\Users\Shruthi Gopalswamy\.ivy2\cache\org.uncommons.maths\uncommons-maths\jars\uncommons-maths-1.2.2a.jar[0m
+[0m[[31merror[0m] [0mC:\GossipNetwork\Gossip\src\main\scala\topologies\Sensors.scala:8: not found: object actors[0m
+[0m[[31merror[0m] [0mimport actors.Actor._[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mone error found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m
